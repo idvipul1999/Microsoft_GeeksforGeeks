@@ -1,2 +1,2 @@
 # Microsoft_GeeksforGeeks
- solution for microsoft geeksforgeeks questions
+Solutions of Microsoft_GeeksForGeeks problems.
