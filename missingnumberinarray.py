@@ -18,7 +18,7 @@ t = int(input())
 arr=[]
 for j in range(0,t):
     n = int(input())
-    list1 = list(map(int, input().split()[:(n-1)]))
+    list1 = list(map(int, input().split()[:(n-)]))
     result=missing(list1,n)
     arr.append(result)
 
